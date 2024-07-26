@@ -30,7 +30,7 @@ on:
         description: "Source branch to be checked out from"
         required: true
         type: string
-        default: "main"
+        default: "develop"
       pypi_repository:
         description: "Name of the package to be built and deployed"
         required: true
